@@ -23,3 +23,4 @@ for i in range(n):
 end_time = time.time()
 print("使用循环进行矩阵乘法的时间：", end_time - start_time)
 
+print('haha')
